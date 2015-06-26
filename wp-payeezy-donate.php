@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: WP Payeezy Donate
-Version: 1.0.0.0.4
+Version: 1.0
 Plugin URI: http://bentcorner.com/wp-payeezy-donation/
-Description: A simple plugin that connects a WordPress site to First Data's Payezzy Gateway using the Hosted Checkout or Payment Page method. No SSL required! 
-Author: Richard Rottman
+Description: A simple plugin that connects a WordPress site to First Data's Payeezy Gateway using the Hosted Checkout or Payment Page method. No SSL required! 
+Author: Rick Rottman
 Author URI: http://bentcorner.com/about/
 */
 
