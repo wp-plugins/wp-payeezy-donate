@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Easily connects a WordPress website to a First Data Payeezy Payment Page for accepting Credit Card donations. No SSL required.
 
 == Description ==
-## Description ##
+
 Plugin creates a shortcode that when placed in the Page or a Post, generates a donation form for a Payeezy Payment Page. The published form includes:
 
 * First Name
