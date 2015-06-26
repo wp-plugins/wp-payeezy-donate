@@ -42,7 +42,7 @@ Once they have entered their choices, they click the "Donate Now" button. They a
 
 **Once Activated**
 
-1. Visit 'Menu > WP Payeezy Donate > and enter the Payment Page ID, Transaction Key, and the Recurring Billing ID. All these values are obtained in Payeezy. 
+1. Visit 'Menu > WP Payeezy Donate > and enter the Payment Page ID, Transaction Key, and the Recurring Billing ID. All these values are obtained in Payeezy. Note: The Recurring Plan on Payeezy needs to have its Frequency set to Monthly. 
 
 2. Chose the Mode you wish to use, Live for a production account, one that actually processes credit cards, or Demo for a non-production testing account.
 
@@ -71,7 +71,7 @@ Yes. There is a text file enclosed that includes the needed css.
 == Screenshots ==
 
 1. WP Payeezy Donate Settings.
-2. The shortcode '[wp_payeezy_donation_form]' added to a post.
+2. The shortcode `[wp_payeezy_donation_form]` added to a post.
 3. The published donation form ready to be used by someone wishing to make a donation. 
 
 == Changelog ==
