@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== WP Payeezy Donate ===
 Contributors: RickRottman
 Tags: First Data, Payeezy, Global Gateway e4, Donations, Payments, Hosted Checkout, Payment Page, Recurring, E-Commerce
 Requires at least: 3.0.1
@@ -24,6 +24,7 @@ Once they have entered their choices, they click the "Donate Now" button. They a
 
 
 == Installation ==
+
 ## Installation ##
 From your WordPress dashboard
 1. Visit 'Plugins > Add New'
