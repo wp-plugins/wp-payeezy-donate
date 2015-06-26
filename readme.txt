@@ -7,7 +7,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easily connects WordPress powered website to a First Data Payeezy Payment Page for accepting Credit Card donations. No SSL required.
+Easily connects a WordPress website to a First Data Payeezy Payment Page for accepting Credit Card donations. No SSL required.
 
 == Description ==
 ## Description ##
@@ -53,32 +53,8 @@ No. This plugin is independent of First Data Payeezy, but was built using their 
 
 = Can I style the donation form? =
 
-Yes. Add the following css to your existing stylesheet and modify it as you wish:
-~~~~
+Yes. There is a text file enclosed that includes the needed css.
 
-#wp_payeezy_donation_form input {
-  border: 1px solid #ddd;
-  color: #333;
-  font-size: 18px;
-  font-weight: 400;
-  padding: 6px;
-  width: auto;
-}
-
-#wp_payeezy_donation_form input[type="submit"] {
-  padding:20px;
-  width:100%;
-  color:#fff;
-}
-
-#wp_payeezy_donation_form label {
-  display: block;
-  font-weight: bold;
-  margin-bottom: -4px;
-  margin-top: 5px;
-}
-
-~~~~
 
 == Screenshots ==
 

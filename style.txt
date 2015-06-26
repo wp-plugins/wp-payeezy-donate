@@ -1,0 +1,21 @@
+#wp_payeezy_donation_form input {
+  border: 1px solid #ddd;
+  color: #333;
+  font-size: 18px;
+  font-weight: 400;
+  padding: 6px;
+  width: auto;
+}
+
+#wp_payeezy_donation_form input[type="submit"] {
+  padding:20px;
+  width:100%;
+  color:#fff;
+}
+
+#wp_payeezy_donation_form label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: -4px;
+  margin-top: 5px;
+}
