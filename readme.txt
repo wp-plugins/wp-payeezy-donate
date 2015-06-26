@@ -24,8 +24,7 @@ Once they have entered their choices, they click the "Donate Now" button. They a
 
 == Installation ==
 
-## Installation ##
-From your WordPress dashboard
+## From your WordPress dashboard ##
 1. Visit 'Plugins > Add New'
 2. Search for 'WP Payeezy Donate'
 3. Activate WP Payeezy Donate from your Plugins page.
