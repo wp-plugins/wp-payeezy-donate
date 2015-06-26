@@ -22,7 +22,6 @@ Plugin creates a shortcode that when placed in the Page or a Post, generates a d
 
 Once they have entered their choices, they click the "Donate Now" button. They are then redirected to the secure Payeezy payment form where they finish entering their information including credit card number, expiration date, and security code. The user then clicks "Pay with your credit card" and the payment is made. Once the transaction is complete, the user is provided a receipt. They can then click a button and be redirected back to the original website. 
 
-
 == Installation ==
 
 ## Installation ##
@@ -56,7 +55,6 @@ No. This plugin is independent of First Data Payeezy, but was built using their 
 
 Yes. There is a text file enclosed that includes the needed css.
 
-
 == Screenshots ==
 
 1. WP Payeezy Donate Settings.
@@ -66,7 +64,6 @@ Yes. There is a text file enclosed that includes the needed css.
 == Changelog ==
 
 No changes yet.
-
 
 == Upgrade Notice ==
 
