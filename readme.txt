@@ -66,7 +66,8 @@ No. This plugin is independent of First Data Payeezy, but was built using their 
 
 = Can I style the donation form? =
 
-Yes. There is a text file enclosed that includes the needed css.
+Yes. [Here is a copy of the css I use](http://bentcorner.com/my-plugins/wp-payeezy-donate/style.txt), feel free to modify as you see fit.
+
 
 == Screenshots ==
 
