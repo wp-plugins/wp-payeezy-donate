@@ -68,6 +68,9 @@ No. This plugin is independent of First Data Payeezy, but was built using their 
 
 Yes. [Here is a copy of the css I use](http://bentcorner.com/my-plugins/wp-payeezy-donate/style.txt), feel free to modify as you see fit.
 
+= How can I use this plugin to accept payments, not donations?
+
+It's geared for taking donations. If you'd like assistance with a payment form for your organization or business, [feel free to contact me.](http://bentcorner.com/wp-payeezy-donate/) 
 
 == Screenshots ==
 
