@@ -78,6 +78,8 @@ It's geared for taking donations. If you'd like assistance with a payment form f
 1. WP Payeezy Donate Settings.
 2. The shortcode `[wp_payeezy_donation_form]` added to a post.
 3. The published donation form ready to be used by someone wishing to make a donation. 
+4. Where to get the values for Payment Page ID and Transaction Key within Payeezy, Payment Pages > The Payment Page > Security. 
+5. Where to get the value for Recurring Billing ID within Payeezy, Recurring > The Recurring Plan. 
 
 == Changelog ==
 
