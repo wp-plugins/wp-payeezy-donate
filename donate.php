@@ -55,7 +55,8 @@ $x_recurring_billing_end_date = date('Y-m-d', strtotime("+4 years"));
 $x_first_name = $_POST["x_first_name"];
 $x_last_name = $_POST["x_last_name"];
 $x_email = $_POST["x_email"];
-$x_description = $_POST["x_description"];
+$x_phone = $_POST["x_phone"];
+$x_invoice_num = $_POST["x_invoice_num"];
 $x_currency_code = "USD"; // Needs to agree with the currency of the payment page
 srand(time()); // initialize random generator for x_fp_sequence
 $x_fp_sequence = rand(1000, 100000) + 123456;
@@ -74,12 +75,14 @@ echo ('<input name="x_currency_code" value="' . $x_currency_code . '" type="hidd
 <input name="x_first_name" value="<?php echo $x_first_name ;?>" type="hidden"> 
 <input name="x_last_name" value="<?php echo $x_last_name ;?>" type="hidden"> 
 <input name="x_email" value="<?php echo $x_email ;?>" type="hidden">
-<input name="x_description" value="<?php echo $x_description ;?>" type="hidden">
+<input name="x_phone" value="<?php echo $phone ;?>" type="hidden">
+<input name="x_invoice_num" value="<?php echo $x_invoice_num ;?>" type="hidden">
 <input name="x_recurring_billing" value="<?php echo $x_recurring_billing ;?>" type="hidden">
 <input name="x_recurring_billing_amount" value="<?php echo $x_amount ;?>" type="hidden">
 <input name="x_recurring_billing_start_date" value="<?php echo $x_recurring_billing_start_date ;?>" type="hidden">
 <input name="x_recurring_billing_end_date" value="<?php echo $x_recurring_billing_end_date ;?>" type="hidden">
 <input name="x_recurring_billing_id" value="<?php echo $x_recurring_billing_id ;?>" type="hidden">
+<input name="x_line_item" value="One Time Donation<|>Item Title<|><?php echo $x_invoice_num ;?><|>1<|><?php echo $x_amount;?><|>N<|>Product Code<|><|><|><|><|>0<|><|><|><?php echo $x_amount;?>"type="hidden">
 <input type="hidden" name="x_show_form" value="PAYMENT_FORM"/>
 </form>
 <center><h2>Processing your  $<?php echo $x_amount;?> donation <?php echo $x_first_name;?>, please wait...</h2></center>

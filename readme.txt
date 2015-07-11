@@ -3,7 +3,7 @@ Contributors: RickRottman
 Tags: First Data, Payeezy, Global Gateway e4, Donations, Payments, Hosted Checkout, Payment Page, Recurring, E-Commerce
 Requires at least: 3.0.1
 Tested up to: 4.2.2
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,7 +16,8 @@ Plugin creates a shortcode that when placed in the Page or a Post, generates a d
 * First Name
 * Last Name
 * Email Address
-* Comment
+* Phone Number
+* Comment 
 * The amount to donate. User making the donation can either pick a predefined amount to donate or enter a custom amount.
 * User can also choose to make their donation monthly, on an automatic recurring basis, by checking a box. 
 
@@ -80,8 +81,18 @@ It's geared for taking donations. If you'd like assistance with a payment form f
 
 == Changelog ==
 
-No changes yet.
+= 1.0 =
+* Initial release.
+
+= 1.1 =
+* Changed "Comment" to output as Reference Number in Payeezy. Now the comment will display on the receipt and show on the front page of Transactions. 
+* Add Phone Number.
+* Corrected a missing paragraph closing tag. 
 
 == Upgrade Notice ==
+
+= 1.1 =
+Added Phone to the donation form's entry fields. Also changed the way the Comment is handled for better functionality. 
+
 
 No upgrades yet.
