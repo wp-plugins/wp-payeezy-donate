@@ -75,7 +75,7 @@ echo ('<input name="x_currency_code" value="' . $x_currency_code . '" type="hidd
 <input name="x_first_name" value="<?php echo $x_first_name ;?>" type="hidden"> 
 <input name="x_last_name" value="<?php echo $x_last_name ;?>" type="hidden"> 
 <input name="x_email" value="<?php echo $x_email ;?>" type="hidden">
-<input name="x_phone" value="<?php echo $phone ;?>" type="hidden">
+<input name="x_phone" value="<?php echo $x_phone ;?>" type="hidden">
 <input name="x_invoice_num" value="<?php echo $x_invoice_num ;?>" type="hidden">
 <input name="x_recurring_billing" value="<?php echo $x_recurring_billing ;?>" type="hidden">
 <input name="x_recurring_billing_amount" value="<?php echo $x_amount ;?>" type="hidden">
