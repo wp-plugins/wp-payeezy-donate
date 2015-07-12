@@ -82,7 +82,7 @@ echo ('<input name="x_currency_code" value="' . $x_currency_code . '" type="hidd
 <input name="x_recurring_billing_start_date" value="<?php echo $x_recurring_billing_start_date ;?>" type="hidden">
 <input name="x_recurring_billing_end_date" value="<?php echo $x_recurring_billing_end_date ;?>" type="hidden">
 <input name="x_recurring_billing_id" value="<?php echo $x_recurring_billing_id ;?>" type="hidden">
-<input name="x_line_item" value="One Time Donation<|>Item Title<|><?php echo $x_invoice_num ;?><|>1<|><?php echo $x_amount;?><|>N<|>Product Code<|><|><|><|><|>0<|><|><|><?php echo $x_amount;?>"type="hidden">
+<input name="x_line_item" value="Donation<|>Donation<|><?php echo $x_invoice_num ;?><|>1<|><?php echo $x_amount;?><|>N<|>Product Code<|><|><|><|><|>0<|><|><|><?php echo $x_amount;?>"type="hidden">
 <input type="hidden" name="x_show_form" value="PAYMENT_FORM"/>
 </form>
 <center><h2>Processing your  $<?php echo $x_amount;?> donation <?php echo $x_first_name;?>, please wait...</h2></center>
