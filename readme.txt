@@ -92,7 +92,7 @@ It's geared for taking donations. If you'd like assistance with a payment form f
 * Corrected a missing paragraph closing tag. 
 
 = 1.2 =
-* Corrected a type that caused a problem processing the phone number. 
+* Corrected a typo that caused a problem processing the phone number. 
 
 == Upgrade Notice ==
 
