@@ -7,7 +7,7 @@ Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easily connects a WordPress website to a First Data Payeezy Payment Page for accepting Credit Card donations. No SSL required.
+Easily connects a WordPress website to a First Data Payeezy Payment Page for accepting Credit Card donations. Easy to configure. No SSL required.
 
 == Description ==
 
@@ -88,13 +88,16 @@ It's geared for taking donations. If you'd like assistance with a payment form f
 
 = 1.1 =
 * Changed "Comment" to output as Reference Number in Payeezy. Now the comment will display on the receipt and show on the front page of Transactions. 
-* Add Phone Number.
+* Added Phone Number.
 * Corrected a missing paragraph closing tag. 
+
+= 1.2 =
+* Corrected a typo that caused a problem processing the phone number. 
 
 == Upgrade Notice ==
 
 = 1.1 =
 Added Phone to the donation form's entry fields. Also changed the way the Comment is handled for better functionality. 
 
-
-No upgrades yet.
+= 1.2 =
+* Phone field wasn't working because of a typo. 
