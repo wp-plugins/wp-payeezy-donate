@@ -7,7 +7,7 @@ Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easily connects a WordPress website to a First Data Payeezy Payment Page for accepting Credit Card donations. No SSL required.
+Easily connects a WordPress website to a First Data Payeezy Payment Page for accepting Credit Card donations. Easy to configure. No SSL required.
 
 == Description ==
 
